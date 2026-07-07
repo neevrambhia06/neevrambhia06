@@ -14,6 +14,8 @@
 <br />
 <br />
 
+<!-- NOTE: Replace this Portfolio badge link with an actual portfolio site URL once you have one.
+     Right now it just points back to your GitHub profile, which is redundant with the GitHub badge below. -->
 <a href="https://github.com/neevrambhia06">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=5BC3CF" />
 </a>
@@ -40,13 +42,9 @@
 
 ## About
 
-I am a software engineering-focused developer building reliable, scalable, and product-driven systems across AI/ML, full stack development, backend engineering, and applied software architecture. My work combines strong engineering fundamentals with modern product thinking: clean APIs, structured databases, secure authentication, maintainable codebases, polished user interfaces, and practical automation.
+I'm a Computer Engineering student at DJSCE, building full stack and AI-powered applications — from EV service platforms to payroll and dealership management systems. I like taking a workflow that currently lives in spreadsheets or someone's head and turning it into a working product: clean APIs, a sensible database schema, and a UI someone would actually want to use.
 
-I focus on building intelligent applications that connect real-world workflows with software systems, including AI-powered tools, management platforms, data-driven dashboards, full stack web applications, and product-ready engineering solutions. I care about performance, clarity, security, developer experience, and building systems that are useful beyond the prototype stage.
-
-**Open To**
-
-`Software Engineering` · `AI/ML Engineering` · `Full Stack Development` · `Backend Engineering` · `Product Engineering` · `Open Source Collaboration`
+Most of my projects come out of hackathons or independent builds where I own the whole stack — frontend, backend, database, and deployment. I'm currently looking for **software engineering / full stack internships** where I can work on production systems at a larger scale.
 
 ---
 
@@ -86,38 +84,44 @@ I focus on building intelligent applications that connect real-world workflows w
 
 ---
 
-## AI / ML Expertise
+## AI / ML
 
-| Domain | Proficiency | Details |
-|---|---:|---|
-| Machine Learning | Advanced | Supervised learning, model evaluation, feature engineering, classification, regression, and experimentation workflows |
-| Deep Learning | Intermediate | Neural networks, CNN concepts, transfer learning, model tuning, and applied deep learning pipelines |
-| Natural Language Processing | Advanced | Text preprocessing, semantic search, embeddings, transformers, prompt workflows, and document intelligence |
-| Generative AI | Advanced | LLM integration, RAG pipelines, AI-assisted products, prompt engineering, and workflow automation |
-| Data Engineering | Intermediate | Data cleaning, structured datasets, ETL-style workflows, analytics-ready processing, and reporting |
-| MLOps | Intermediate | Model deployment concepts, API-based inference, reproducible workflows, and production-oriented AI services |
+<!-- NOTE: The old version self-rated "Advanced" in NLP and Generative AI with nothing to back it up —
+     that's a claim interviewers will test. Below, each line is tied to a real project or coursework
+     item. Edit the bracketed placeholders to match what you can actually speak to in an interview,
+     and delete any row you can't defend. -->
+
+| Area | Where I've applied it |
+|---|---|
+| Machine Learning | Supervised learning, feature engineering, and model evaluation — [name the course/project, e.g. NPTEL Data Science, a classification project] |
+| Generative AI / LLMs | LLM integration and prompt workflows in [name a specific project, e.g. AlgoQuest3D] |
+| NLP | [Add a specific project or coursework where you used embeddings, semantic search, or transformers — remove this row if you don't have one yet] |
+| Data Engineering | Data cleaning and structured pipelines in [name a specific project] |
 
 ---
 
 ## Featured Projects
+
+<!-- NOTE: The five project tables below used to be nearly identical (same Stack/Scale/Performance/
+     Security/Impact rows, same generic phrases like "Optimized data handling"). That pattern reads
+     as templated. I've restructured each one around 3 concrete questions instead: what it does,
+     what tech it's actually built with, and what was hard about it. Fill in the bracketed parts —
+     real numbers, real framework names, a screenshot/GIF if you have one — and delete any bracket
+     you can't answer honestly. A short screenshot or demo GIF here would do more than any badge.
+-->
 
 <details>
 <summary><b>Digital License Royalty Auditor</b></summary>
 
 <br />
 
-A software system designed to support digital license tracking, royalty validation, audit workflows, and compliance-oriented reporting for digital assets and licensing operations.
+**What it does:** [1-2 sentences — e.g. "Tracks digital license usage and validates royalty payouts against usage records, flagging discrepancies for audit review."]
 
-| Category | Details |
-|---|---|
-| Stack | Full Stack Web, Database Systems, Authentication, Reporting Workflows |
-| Scale | Structured audit workflow with role-aware data management |
-| Performance | Optimized data handling for license records, royalty checks, and report generation |
-| Security | Controlled access, validation layers, and compliance-aware information flow |
-| Impact | Improves transparency, traceability, and reliability in digital royalty auditing |
-| Repository | [github.com/neevrambhia06/digital_license_royalty_auditor](https://github.com/neevrambhia06/digital_license_royalty_auditor) |
+**Built with:** [Specific stack — e.g. React + Node.js/Express + PostgreSQL, not just "Full Stack Web"]
 
-Built with a product engineering mindset around reliability, auditability, and clean workflow design for license and royalty management.
+**The interesting part:** [What was genuinely hard — e.g. designing the audit trail schema, handling role-based access, reconciling mismatched records]
+
+**Repository:** [github.com/neevrambhia06/digital_license_royalty_auditor](https://github.com/neevrambhia06/digital_license_royalty_auditor)
 
 </details>
 
@@ -126,18 +130,13 @@ Built with a product engineering mindset around reliability, auditability, and c
 
 <br />
 
-A modern software platform focused on electric mobility workflows, enabling structured management of EV-related operations, user interactions, and product-oriented service flows.
+**What it does:** [1-2 sentences — e.g. "An EV charging/service management platform where users can [specific action] and admins can [specific action]."]
 
-| Category | Details |
-|---|---|
-| Stack | Full Stack Development, APIs, Database Design, Responsive UI |
-| Scale | Modular application architecture for EV service workflows |
-| Performance | Efficient interface flows, structured backend logic, and optimized data access |
-| Security | Secure form handling, protected data operations, and validation-first design |
-| Impact | Supports clean, accessible, and scalable EV-focused digital experiences |
-| Repository | [github.com/neevrambhia06/Voltpark](https://github.com/neevrambhia06/Voltpark) |
+**Built with:** [Specific stack]
 
-Designed as a practical engineering project combining frontend usability, backend structure, and domain-focused product thinking.
+**The interesting part:** [e.g. real-time availability logic, form validation, a specific API integration]
+
+**Repository:** [github.com/neevrambhia06/Voltpark](https://github.com/neevrambhia06/Voltpark)
 
 </details>
 
@@ -146,18 +145,13 @@ Designed as a practical engineering project combining frontend usability, backen
 
 <br />
 
-A developer-focused API discovery and management project built to organize API information, improve technical exploration, and support efficient integration workflows.
+**What it does:** [1-2 sentences — e.g. "A searchable catalog of APIs with structured metadata to help developers find and evaluate endpoints faster."]
 
-| Category | Details |
-|---|---|
-| Stack | Web APIs, Backend Services, Frontend Interface, Documentation Workflows |
-| Scale | Organized API catalog structure for developer productivity |
-| Performance | Fast lookup-oriented design with clean endpoint organization |
-| Security | API-safe design patterns, validation, and structured request handling |
-| Impact | Helps developers explore, understand, and manage APIs more efficiently |
-| Repository | [github.com/neevrambhia06/APIdex](https://github.com/neevrambhia06/APIdex) |
+**Built with:** [Specific stack]
 
-Built around developer experience, clarity, and reusable software architecture for API-first engineering workflows.
+**The interesting part:** [e.g. how you structured the search/filter logic, or the data model for API entries]
+
+**Repository:** [github.com/neevrambhia06/APIdex](https://github.com/neevrambhia06/APIdex)
 
 </details>
 
@@ -166,105 +160,58 @@ Built around developer experience, clarity, and reusable software architecture f
 
 <br />
 
-A payroll and employee management platform for handling employee records, salary workflows, administrative operations, and structured organizational data.
+**What it does:** [1-2 sentences — e.g. "Handles employee records, salary computation, and admin-only payroll workflows with role-based access."]
 
-| Category | Details |
-|---|---|
-| Stack | Full Stack Web, Database Management, Admin Workflows, Authentication |
-| Scale | Multi-entity system for employee, payroll, and administrative data |
-| Performance | Structured queries, clean data modeling, and efficient dashboard workflows |
-| Security | Controlled access, validation, and sensitive payroll data handling |
-| Impact | Simplifies payroll operations and improves accuracy in employee record management |
-| Repository | [github.com/neevrambhia06/employee-payroll-management-system](https://github.com/neevrambhia06/employee-payroll-management-system) |
+**Built with:** [Specific stack]
 
-Developed with attention to business logic correctness, database structure, and maintainable full stack implementation.
+**The interesting part:** [e.g. payroll calculation logic, access control design]
+
+**Repository:** [github.com/neevrambhia06/employee-payroll-management-system](https://github.com/neevrambhia06/employee-payroll-management-system)
 
 </details>
 
 <details>
-<summary><b>SE DIV C SEM4 25-26</b></summary>
+<summary><b>Voitures Rapidos — Car Dealership System</b></summary>
 
 <br />
 
-An academic engineering repository containing semester-based coursework, programming assignments, software engineering practice, and structured learning projects.
+**What it does:** [1-2 sentences — e.g. "Manages vehicle inventory, listings, and customer inquiries for a dealership."]
 
-| Category | Details |
-|---|---|
-| Stack | C, Programming Fundamentals, Academic Engineering Workflows |
-| Scale | Semester-level repository for organized coursework and implementation practice |
-| Performance | Focused on algorithmic clarity, correctness, and structured problem solving |
-| Security | Clean repository organization and disciplined code management |
-| Impact | Demonstrates consistent academic progress and foundational engineering skills |
-| Repository | [github.com/neevrambhia06/SE_DIV_C_SEM4_25-26](https://github.com/neevrambhia06/SE_DIV_C_SEM4_25-26) |
+**Built with:** [Specific stack]
 
-Represents hands-on learning across core programming concepts, engineering assignments, and practical implementation work.
+**The interesting part:** [e.g. inventory/search logic, form handling]
+
+**Repository:** [github.com/neevrambhia06/voitures-rapidos-car-dealership-system](https://github.com/neevrambhia06/voitures-rapidos-car-dealership-system)
 
 </details>
-
-<details>
-<summary><b>Voitures Rapidos Car Dealership System</b></summary>
 
 <br />
 
-A car dealership management system designed to support vehicle listings, dealership workflows, inventory handling, and customer-facing operations.
-
-| Category | Details |
-|---|---|
-| Stack | Full Stack Web, Database Systems, UI Workflows, Business Logic |
-| Scale | Dealership-oriented system with structured vehicle and customer data |
-| Performance | Efficient inventory browsing, data organization, and operational workflows |
-| Security | Validation-driven forms, protected operations, and structured access patterns |
-| Impact | Digitizes dealership operations and improves vehicle management workflows |
-| Repository | [github.com/neevrambhia06/voitures-rapidos-car-dealership-system](https://github.com/neevrambhia06/voitures-rapidos-car-dealership-system) |
-
-Built to demonstrate product-style software engineering across domain modeling, interface design, and backend workflow implementation.
-
-</details>
+<!-- NOTE: Coursework moved out of Featured Projects and into its own line — it's not a
+     product-style project and diluted the section above. -->
+📚 Coursework repo: [SE_DIV_C_SEM4_25-26](https://github.com/neevrambhia06/SE_DIV_C_SEM4_25-26) — semester programming assignments and practice problems.
 
 ---
 
 ## Experience
 
-### Software Engineering Student · AI/ML & Full Stack Development  
-**2023 - Present**
+### Software Engineering Student · AI/ML & Full Stack Development
+**2023 – Present**
 
-Building software projects across AI/ML, full stack systems, backend services, database-driven applications, and product-focused engineering workflows. Focused on developing practical systems that combine technical correctness with real-world usability.
-
-- Designed and implemented full stack applications with structured frontend, backend, and database layers
-- Built academic and independent projects across AI/ML, automation, management systems, and developer tools
-- Developed reusable interfaces, clean APIs, and maintainable application workflows
-- Practiced software engineering fundamentals including debugging, version control, testing, and documentation
-- Explored system design, data modeling, deployment workflows, and production-oriented engineering patterns
+- Built full stack applications end-to-end: frontend UI, backend APIs, and database design
+- Worked across AI/ML, management systems, and developer tooling projects, mostly independently or in hackathon teams
+- Practiced core engineering skills — debugging, version control, testing, and documentation — on real (not toy) projects
 
 `Python` `Java` `C` `JavaScript` `React` `Node.js` `Databases` `GitHub` `AI/ML`
 
-### Project Developer · Independent Engineering Projects  
-**2024 - Present**
+### Project Developer · Independent Engineering Projects
+**2024 – Present**
 
-Created multiple project-based systems including royalty auditing tools, EV-focused platforms, API discovery workflows, payroll management systems, and dealership management applications.
+- Built five+ domain-specific systems (royalty auditing, EV platform, API catalog, payroll, dealership management) from idea to working repo
+- Owned the full stack on each: modeling the domain, wiring up the backend, and building the UI
+- Focused on writing code that's actually maintainable, not just demo-ready
 
-- Built domain-specific software systems from idea to implementation
-- Modeled real-world workflows into structured application features
-- Integrated frontend interfaces with backend logic and database operations
-- Focused on clarity, scalability, security, and recruiter-friendly project presentation
-
-`Full Stack Development` `Backend Engineering` `Product Thinking` `Database Design` `Software Architecture`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Project Portfolio Builder | Built multiple software engineering projects across full stack, AI/ML, management systems, and developer tools |
-| Applied AI/ML Learner | Focused on machine learning, intelligent systems, automation, and AI-powered application development |
-| Open Source Contributor | Maintains public repositories and builds projects using GitHub-centered engineering workflows |
-| Full Stack Developer | Works across frontend interfaces, backend APIs, databases, and deployment-oriented application structure |
-| Academic Engineering Track | Actively developing core software engineering skills through structured coursework and independent projects |
-
-</div>
+`Full Stack Development` `Backend Engineering` `Database Design` `Software Architecture`
 
 ---
 
@@ -364,26 +311,15 @@ Created multiple project-based systems including royalty auditing tools, EV-focu
 Learning:
   - Advanced software engineering fundamentals
   - AI/ML model development and integration
-  - Full stack product architecture
   - Cloud native deployment workflows
 
 Building:
   - AI-powered developer tools
   - Full stack management systems
-  - Domain-specific business applications
-  - Scalable backend APIs
 
-Exploring:
-  - LLM-powered products
-  - Retrieval augmented generation
-  - System design patterns
-  - Open source engineering workflows
-
-Open To:
-  - Software engineering internships
+Looking for:
+  - Software engineering / full stack internships
   - AI/ML engineering opportunities
-  - Full stack development roles
-  - Open source collaboration
 ```
 
 ---
@@ -401,17 +337,12 @@ Open To:
 <a href="https://github.com/neevrambhia06">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=DBEAFE" />
 </a>
-<a href="https://github.com/neevrambhia06">
-  <img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=5BC3CF" />
-</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-**Engineering intelligent software with precision, scale, and product-first thinking.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8E2DE2,45:302b63,100:0f0c29" />
 
