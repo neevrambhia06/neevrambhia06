@@ -42,7 +42,7 @@
 
 ## About
 
-I'm a Computer Engineering student at DJSCE, building full stack and AI-powered applications — from EV service platforms to payroll and dealership management systems. I like taking a workflow that currently lives in spreadsheets or someone's head and turning it into a working product: clean APIs, a sensible database schema, and a UI someone would actually want to use.
+I'm a Computer Engineering student at APSIT, building full stack and AI-powered applications — from EV service platforms to payroll and dealership management systems. I like taking a workflow that currently lives in spreadsheets or someone's head and turning it into a working product: clean APIs, a sensible database schema, and a UI someone would actually want to use.
 
 Most of my projects come out of hackathons or independent builds where I own the whole stack — frontend, backend, database, and deployment. I'm currently looking for **software engineering / full stack internships** where I can work on production systems at a larger scale.
 
