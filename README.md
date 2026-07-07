@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,45:302b63,100:5bc3cf&text=Neev%20Rambhia&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,45:302b63,100:8E2DE2&text=Neev%20Rambhia&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&color=5bc3cf&center=true&vCenter=true&width=900&lines=Building+Enterprise-Grade+Software+Systems;Engineering+AI-Powered+Products+at+Scale;Full+Stack+Developer+with+AI%2FML+Expertise;Clean+Architecture+%7C+Cloud+Native+%7C+Applied+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=800&color=5BC3CF&center=true&vCenter=true&width=900&lines=Building+Enterprise-Grade+Software+Systems;Engineering+AI-Powered+Products+at+Scale;Full+Stack+Developer+with+AI%2FML+Expertise;Clean+Architecture+%7C+Cloud+Native+%7C+Applied+AI" alt="Typing SVG" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Academic-Computer%20Engineering-6D28D9?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Specialization-AI%20%26%20ML-5bc3cf?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Specialization-AI%20%26%20ML-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Software%20Engineering-4F46E5?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-India-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
 
@@ -15,7 +15,7 @@
 <br />
 
 <a href="https://github.com/neevrambhia06">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=5bc3cf" />
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=5BC3CF" />
 </a>
 <a href="https://www.linkedin.com/in/neev-rambhia-182604303/">
   <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=93C5FD" />
@@ -24,15 +24,15 @@
   <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=F0ABFC" />
 </a>
 <a href="https://github.com/neevrambhia06">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=5bc3cf" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=DBEAFE" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=neevrambhia06&style=flat-square&color=5bc3cf&label=Profile%20Views" />
+<img src="https://komarev.com/ghpvc/?username=neevrambhia06&style=flat-square&color=7c3aed&label=Profile%20Views" />
 <img src="https://img.shields.io/github/followers/neevrambhia06?style=flat-square&color=4f46e5&label=Followers" />
-<img src="https://img.shields.io/github/stars/neevrambhia06?style=flat-square&color=5bc3cf&label=Stars" />
+<img src="https://img.shields.io/github/stars/neevrambhia06?style=flat-square&color=2563EB&label=Stars" />
 
 </div>
 
@@ -273,7 +273,7 @@ Created multiple project-based systems including royalty auditing tools, EV-focu
 ### AWS
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-1E1B4B?style=for-the-badge&logo=amazonaws&logoColor=5bc3cf" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-1E1B4B?style=for-the-badge&logo=amazonaws&logoColor=5BC3CF" />
 
 ### Oracle
 
@@ -288,7 +288,7 @@ Created multiple project-based systems including royalty auditing tools, EV-focu
 ### Cisco
 
 <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=5bc3cf" />
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=5BC3CF" />
 
 ---
 
@@ -317,12 +317,12 @@ Created multiple project-based systems including royalty auditing tools, EV-focu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neevrambhia06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5bc3cf&icon_color=5bc3cf&text_color=5bc3cf" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=neevrambhia06&theme=tokyonight&hide_border=true&background=0D1117&ring=5bc3cf&fire=5bc3cf&currStreakLabel=5bc3cf" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neevrambhia06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC3CF&icon_color=2563EB&text_color=DBEAFE" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=neevrambhia06&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=5BC3CF&currStreakLabel=DBEAFE" />
 
 <br />
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevrambhia06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5bc3cf&text_color=5bc3cf" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevrambhia06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BC3CF&text_color=DBEAFE" />
 
 </div>
 
@@ -342,7 +342,7 @@ Created multiple project-based systems including royalty auditing tools, EV-focu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neevrambhia06&bg_color=0D1117&color=5bc3cf&line=5bc3cf&point=5bc3cf&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neevrambhia06&bg_color=0D1117&color=DBEAFE&line=2563EB&point=5BC3CF&area=true&hide_border=true" />
 
 </div>
 
@@ -399,10 +399,10 @@ Open To:
   <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=93C5FD" />
 </a>
 <a href="https://github.com/neevrambhia06">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=5bc3cf" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=DBEAFE" />
 </a>
 <a href="https://github.com/neevrambhia06">
-  <img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=5bc3cf" />
+  <img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=5BC3CF" />
 </a>
 
 </div>
@@ -413,6 +413,6 @@ Open To:
 
 **Engineering intelligent software with precision, scale, and product-first thinking.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5bc3cf,45:302b63,100:0f0c29" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8E2DE2,45:302b63,100:0f0c29" />
 
 </div>
