@@ -1,8 +1,3 @@
-from pathlib import Path
-from textwrap import dedent
-
-content = dedent(r'''# 👋 Hi, I'm Neev Rambhia
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4F46E5,50:2563EB,100:06B6D4&text=Neev%20Rambhia&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=AI/ML%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
