@@ -1,3 +1,5 @@
+# Hi, I'm Neev Rambhia
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4F46E5,50:2563EB,100:06B6D4&text=Neev%20Rambhia&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=AI/ML%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
@@ -12,21 +14,21 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 I'm a **Bachelor of Engineering (AI & ML)** student at **A. P. Shah Institute of Technology** with a strong interest in software engineering, backend systems, AI integration, and full-stack development.
 
 I enjoy building practical applications that solve real-world problems. My projects span smart parking, payroll management, dealership systems, API platforms, and AI-assisted software.
 
-- 🎓 B.E. Artificial Intelligence & Machine Learning
-- 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Always learning new technologies
-- 🚀 Looking for Software Engineering, Full Stack, and AI/ML internships
+- B.E. Artificial Intelligence & Machine Learning
+- Full Stack Developer
+- AI & Machine Learning Enthusiast
+- Always learning new technologies
+- Looking for Software Engineering, Full Stack, and AI/ML internships
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -61,9 +63,9 @@ I enjoy building practical applications that solve real-world problems. My proje
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## ⚡ VOLTpark – Smart Parking & EV Charging Platform
+## VOLTpark – Smart Parking & EV Charging Platform
 
 **Tech Stack:** React • Supabase • Tailwind CSS • Razorpay
 
@@ -76,13 +78,13 @@ I enjoy building practical applications that solve real-world problems. My proje
 
 ---
 
-## 📑 Digital License Royalty Auditor
+## Digital License Royalty Auditor
 
 A full-stack auditing platform that helps track digital license usage and validate royalty payouts through structured audit workflows.
 
 ---
 
-## 👨‍💼 Employee Payroll Management System
+## ‍ Employee Payroll Management System
 
 **Java • Servlets • JSP • JDBC • SQLite**
 
@@ -93,19 +95,19 @@ A full-stack auditing platform that helps track digital license usage and valida
 
 ---
 
-## 🚗 Voitures Rapidos
+## Voitures Rapidos
 
 Car dealership management system for inventory and customer management.
 
 ---
 
-## 🌐 API Dex
+## API Dex
 
 Developer-friendly API catalog for discovering and organizing APIs.
 
 ---
 
-# 💼 Experience
+# Experience
 
 ## Deloitte Australia — Technology Job Simulation (Forage)
 
@@ -123,7 +125,7 @@ Developer-friendly API catalog for discovering and organizing APIs.
 
 ---
 
-# 🎓 Education
+# Education
 
 **Bachelor of Engineering (Artificial Intelligence & Machine Learning)**
 
@@ -139,7 +141,7 @@ SVKM's Shri Bhagubhai Mafatlal Polytechnic
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 - AWS Cloud Computing
 - Oracle Java Foundations
@@ -152,7 +154,7 @@ SVKM's Shri Bhagubhai Mafatlal Polytechnic
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=neevrambhia06&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -165,7 +167,7 @@ SVKM's Shri Bhagubhai Mafatlal Polytechnic
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neevrambhia06&theme=tokyo-night&hide_border=true"/>
@@ -173,7 +175,7 @@ SVKM's Shri Bhagubhai Mafatlal Polytechnic
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=neevrambhia06&theme=tokyonight&no-frame=true&no-bg=true"/>
@@ -181,7 +183,7 @@ SVKM's Shri Bhagubhai Mafatlal Polytechnic
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/neevrambhia06/neevrambhia06/output/github-contribution-grid-snake-dark.svg"/>
@@ -189,21 +191,53 @@ SVKM's Shri Bhagubhai Mafatlal Polytechnic
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```yaml
 Learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Backend Engineering
-  - Full Stack Development
+ - Artificial Intelligence
+ - Machine Learning
+ - Backend Engineering
+ - Full Stack Development
 
 Building:
-  - AI-powered Software
-  - Management Systems
-  - Developer Tools
+ - AI-powered Software
+ - Management Systems
+ - Developer Tools
 
 Looking For:
-  - Software Engineering Internship
-  - Full Stack Internship
-  - AI/ML Internship
+ - Software Engineering Internship
+ - Full Stack Internship
+ - AI/ML Internship
+```
+
+---
+
+# Coding Profiles
+
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- CodeChef
+
+(Add your profile links.)
+
+---
+
+# Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neev-rambhia-182604303/)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:neevrambhia06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/neevrambhia06)
+
+</div>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
